@@ -1,0 +1,30 @@
+.streams-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .stream-card {
+    background: #222;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .stream-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .watch-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #00ffff;
+    color: #000;
+    text-decoration: none;
+    margin-top: 0.5rem;
+  }
+  
